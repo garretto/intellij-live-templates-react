@@ -6,6 +6,7 @@ Add file to ~/Library/Preferences/IntelliJIdea15/templates/
 
 ```
 rcls - create react class
+reduxcls - redux connected class
 cons - add constructor
 prop - add prop type
 bnd - bind function in constructor
